@@ -1,0 +1,4 @@
+.terraform
+.terraform_key.pem
+.terraform.tfstate.d
+
