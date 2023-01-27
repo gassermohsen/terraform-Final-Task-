@@ -1,1 +1,1 @@
-![Screenshot](ProxyConfig.png)
+![Screenshot](Screenshots/ProxyConfig.png)
